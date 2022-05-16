@@ -1,6 +1,6 @@
 # Hello, World!
 
-<div>
+<div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=vinivilares&show_icons=true&theme=merko" />
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivilares&layout=compact&theme=merko" />
 </div>
