@@ -1,9 +1,6 @@
 # Hello, World!
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=vinivilares&show_icons=true&theme=merko" />
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinivilares&layout=compact&theme=merko" />
-</div>
+My name is Marcus and I'm Technology Consulting Trainee
+Graduated in System Analysis and Development
 
 ## Work with
 <div>
